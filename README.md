@@ -1,3 +1,4 @@
+$ pip install PyQt5
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
