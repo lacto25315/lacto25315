@@ -93,8 +93,3 @@ if __name__ == '__main__':
 
     ex = PersephoneWindow()
     sys.exit(app.exec_())
-
-<!---
-lacto25315/lacto25315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
